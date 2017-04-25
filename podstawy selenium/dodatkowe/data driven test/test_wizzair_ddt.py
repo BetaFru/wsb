@@ -4,12 +4,6 @@ from selenium import webdriver
 from ddt import ddt, data, unpack
 import csv
 
-valid_name = "Dick"
-valid_surname = "Laurent"
-valid_telephone = "123123123"
-invalid_email = "hhjkj.pl"
-valid_password = "Qshiukk12"
-
 """
 Rejestracja nowego użytkownika na stronie wizzair.com
 
