@@ -2,6 +2,7 @@
 import unittest
 from selenium import webdriver
 
+# Tu by można już było pomyśleć o Page Object Pattern
 """
 Rejestracja nowego użytkownika na stronie wizzair.com
 

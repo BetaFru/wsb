@@ -8,7 +8,7 @@ Check if there is a specific word
 Check if more that one
 """
 
-search_word = "Szydło"
+search_word = "Trump"
 
 
 class WpPlSearch(unittest.TestCase):
